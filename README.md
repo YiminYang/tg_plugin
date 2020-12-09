@@ -5,9 +5,9 @@
 - php
 
 ## Installation
- - Download ZIP. 
- - Unzip files and upload to wordpress website root: wp-content -> plugins.   
-	- Go to Wordpress dashboard plugin section, find tg_plugin and activate it. - 
+ - Download ZIP
+ - Unzip files and upload to wordpress website root: wp-content -> plugins
+ - Go to Wordpress dashboard plugin section, find tg_plugin and activate it
 
 
 ## Function
